@@ -2,6 +2,11 @@
     "Name": " Invariant encoding of phonemes in neural responses to continuous speech\n",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Ole Bialas",
+        "Emily Teoh",
+        "Andrew Anderson",
+        "Edmund Lalor"
+    ],
     "License": "CC0"
 }
