@@ -3,7 +3,7 @@
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
-        "[Unspecified]"
+        "Ole Bialas, Emily Teoh, Andrew Anderson, Edmund Lalor"
     ],
     "License": "CC0"
 }
