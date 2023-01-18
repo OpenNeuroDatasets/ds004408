@@ -1,8 +1,9 @@
 {
-    "Name": " ",
+    "Name": " Invariant encoding of phonemes in neural responses to continuous speech",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
         "[Unspecified]"
-    ]
+    ],
+    "License": "CC0"
 }
