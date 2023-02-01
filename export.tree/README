@@ -1,0 +1,6 @@
+Neural responses, obtained with scalp EEG, of healthy, neurotypical adults listening to continuous naturalistic speech.  
+Subjects 001 to 019 listened to 20 segments from a single audio book (audio files can be found in stimuli/single_speaker) while subjects 100 to 113 listened to 14 segments from different audio books read by different speakers (audio files can be found in stimuli/multi_speaker).
+
+For each subject, there is one recording corresponding to each audio files (e.g. sub-002_run-05_eeg corresponds to audio05.wav) and the start and stop of the recording is aligned with the start and stop of the audio.
+
+For each audio, there is a corresponding TextGrid file containing a phoneme-representation of the speech. The grids were computed using the forced-alignment software Prosodylab-Aligner.
