@@ -6,7 +6,7 @@ A4	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A5	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A6	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A7	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
-A8	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
+A8	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	bad	n/a
 A9	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A10	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A11	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
