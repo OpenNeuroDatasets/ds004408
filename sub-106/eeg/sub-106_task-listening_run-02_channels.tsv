@@ -17,7 +17,7 @@ A15	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A16	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A17	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A18	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
-A19	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
+A19	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	bad	n/a
 A20	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A21	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A22	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
@@ -110,8 +110,8 @@ D12	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D13	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D14	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D15	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
-D16	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
-D17	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
+D16	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	bad	n/a
+D17	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	bad	n/a
 D18	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D19	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D20	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
@@ -122,7 +122,7 @@ D24	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D25	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D26	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D27	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
-D28	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
+D28	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	bad	n/a
 D29	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D30	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D31	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
