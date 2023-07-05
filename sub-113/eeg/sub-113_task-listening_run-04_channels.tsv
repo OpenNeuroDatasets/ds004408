@@ -1,6 +1,6 @@
 ﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
 A1	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
-A2	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
+A2	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	bad	n/a
 A3	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A4	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A5	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
