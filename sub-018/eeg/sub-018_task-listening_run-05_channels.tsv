@@ -4,7 +4,7 @@ A2	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A3	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A4	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A5	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
-A6	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
+A6	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	bad	n/a
 A7	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A8	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 A9	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
@@ -69,7 +69,7 @@ C3	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 C4	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 C5	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 C6	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
-C7	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
+C7	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	bad	n/a
 C8	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 C9	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 C10	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
@@ -101,7 +101,7 @@ D3	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D4	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D5	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D6	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
-D7	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
+D7	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	bad	n/a
 D8	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D9	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D10	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
@@ -111,7 +111,7 @@ D13	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D14	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D15	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D16	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
-D17	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
+D17	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	bad	n/a
 D18	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D19	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
 D20	EEG	V	0.0	256.0	ElectroEncephaloGram	512.0	good	n/a
