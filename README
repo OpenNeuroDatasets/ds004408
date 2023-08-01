@@ -1,6 +1,6 @@
 This dataset, which was collected within the scope of two studies [1,2] contains the EEG responses of healthy, neurotypical adults who listened to naturalistic speech. The subjects listened to segments from an audio book version of "The Old Man and the Sea" and their brain activity was recorded using a 128-channel ActiveTwo EEG system (BioSemi). 
 
-The stimuli folder contains .wav files of the presented audiobook segments as well as a .TextGrid file for each segment, containng the timing of  words and phonemes in that segment. The text grids were generated using the forced-alignment software Prosodylab-Aligner [3] and inspected by eye. Each subject's folder contains one EEG-recording per audio segment and their starts are aligned (the EEG recordings are longer than the audio to a varying extent).  The recordings are unfiltered, unreferenced and sampled at 512 Hz.
+The stimuli folder contains .wav files of the presented audiobook segments as well as a .TextGrid file for each segment, containng the timing of  words and phonemes in that segment. The text grids were generated using the forced-alignment software Prosodylab-Aligner [^3] and inspected by eye. Each subject's folder contains one EEG-recording per audio segment and their starts are aligned (the EEG recordings are longer than the audio to a varying extent).  The recordings are unfiltered, unreferenced and sampled at 512 Hz.
 
 ## References
 
@@ -8,12 +8,4 @@ The stimuli folder contains .wav files of the presented audiobook segments as we
 
 [2]: Broderick, M. P., Anderson, A. J., Di Liberto, G. M., Crosse, M. J., & Lalor, E. C. (2018). Electrophysiological correlates of semantic dissimilarity reflect the comprehension of natural, narrative speech. Current Biology, 28(5), 803-809.
 
-[3]: Gorman, K., Howell, J., & Wagner, M. (2011). Prosodylab-aligner: A tool for forced alignment of laboratory speech. Canadian Acoustics, 39(3), 192-193.
-
-
-Neural responses, obtained with scalp EEG,  listening to continuous naturalistic speech.  
-Subjects 001 to 019 listened to 20 segments from a single audio book (audio files can be found in stimuli/single_speaker) while subjects 100 to 113 listened to 14 segments from different audio books read by different speakers (audio files can be found in stimuli/multi_speaker).
-
-For each subject, there is one recording corresponding to each audio files (e.g. sub-002_run-05_eeg corresponds to audio05.wav) and the start and stop of the recording is aligned with the start and stop of the audio.
-
-For each audio, there is a corresponding TextGrid file containing a phoneme-representation of the speech. The grids were computed using the forced-alignment software Prosodylab-Aligner.
+[^3]: Gorman, K., Howell, J., & Wagner, M. (2011). Prosodylab-aligner: A tool for forced alignment of laboratory speech. Canadian Acoustics, 39(3), 192-193.
